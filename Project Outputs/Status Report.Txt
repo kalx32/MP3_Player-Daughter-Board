@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of BOM Document [MP3_player.BomDoc]
+   Generated File[Bill of Materials-MP3_player.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:08:40 PM On 1/23/2026
